@@ -45,7 +45,7 @@ export const experienceContent = [
   {
     icon: icons.synchrony,
     name: "Synchrony Financials",
-    since: "Sep 2022 - present",
+    since: "Aug 2022 - present",
     projects: [
       {
         title: "VISTA: Account Details (MFE)",
