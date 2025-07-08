@@ -43,7 +43,7 @@ export default function OpenSource() {
               </a>
               ,
               <a
-                href="https://github.com/sadanandpai/frontend-mini-challenges/issues?q=is%3Apr%20author%3A%40me"
+                href="https://github.com/sadanandpai/frontend-mini-challenges/issues?q=is%3Apr%20author%3ADev-AkshatGupta"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="text-blue-600 dark:text-blue-400 hover:underline"
